@@ -1,6 +1,6 @@
 # NLP lab solutions
 
-Each folder, `lab1` through `lab11`, contains a `solution.ipynb` notebook with answers to the tasks in its linked guidelines.
+Each folder, `lab1` through `lab12`, contains a `solution.ipynb` notebook with answers to the tasks in its linked guidelines.
 
 ## Setup
 
@@ -17,5 +17,5 @@ Open a notebook in Jupyter or VS Code, select this environment, and run all cell
 
 Lab 4 uses the full Amazon review dataset and may take several minutes. Lab 5 trains Word2Vec on all supplied Simpsons dialogue. Models use a fixed seed where practical; generated text in Lab 7 intentionally uses random sampling.
 
-Lab 9 asks for a sentence and saves its trained model to `lab9/custom_ner_model/`. Lab 10 trains a small English–French LSTM on 10,000 short sentence pairs; it demonstrates the method rather than providing reliable e-commerce translations. Lab 11 visualizes attention on the supplied training questions, so its reported accuracy is training accuracy.
+Lab 9 uses an editable example sentence and saves its trained model to `lab9/custom_ner_model/`. Lab 10 trains a small English–French LSTM on 10,000 short sentence pairs; it demonstrates the method rather than providing reliable e-commerce translations. Lab 11 visualizes attention on the supplied training questions, so its reported accuracy is training accuracy.
 
